@@ -2,7 +2,7 @@
 body {
     font-size: 100%;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background: #ffffff url(./Assets/water.jpg) no-repeat fixed top center;
+    background: #0db6d4 url(./Assets/water.jpg) no-repeat fixed top center;
     padding: 0;
     margin: 0;
     -webkit-background-size: 100% 100%;
